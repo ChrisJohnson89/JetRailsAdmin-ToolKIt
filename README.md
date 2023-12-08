@@ -1,6 +1,6 @@
 
 
-## Mass Server Restart Script
+## Mass Service Restart Script
 
 This script is designed to manage MySQL and Elasticsearch services across multiple servers. It allows for a controlled restart of these services, with options to view current processes and confirm actions.
 
