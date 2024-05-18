@@ -1,6 +1,3 @@
-### Repository Name
-**ServerSwapManager**
-
 ### README.md
 
 ```
@@ -15,7 +12,6 @@ ServerSwapManager is a script designed to manage swap memory across multiple ser
 
 ## Usage
 
-
 1. **Run the Script:**
    Execute the script in your terminal:
    ```
@@ -23,11 +19,8 @@ ServerSwapManager is a script designed to manage swap memory across multiple ser
    ```
 
 2. **Provide Server IDs or Aliases:**
-   When prompted, enter the server IDs or aliases as a comma-separated list, NO SPACES:
+   When prompted, enter the server IDs or aliases as a comma-separated list:
    ```
    Enter the server IDs or aliases (comma-separated): server1,server2,server3
    ```
-
-
-## Contributing
-If you have suggestions for improvements or additional features, feel free to submit a pull request or open an issue.
+```
