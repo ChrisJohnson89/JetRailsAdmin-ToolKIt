@@ -1,6 +1,6 @@
 ### README.md
 
-```
+
 # ServerSwapManager
 
 ServerSwapManager is a script designed to manage swap memory across multiple servers efficiently. It automates the process of turning off and then turning on the swap memory, which can help in certain system maintenance scenarios.
@@ -23,4 +23,3 @@ ServerSwapManager is a script designed to manage swap memory across multiple ser
    ```
    Enter the server IDs or aliases (comma-separated): server1,server2,server3
    ```
-```
