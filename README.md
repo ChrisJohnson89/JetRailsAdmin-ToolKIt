@@ -5,7 +5,7 @@ This repository contains scripts designed for server maintenance and service man
 
 ### Scripts
 
-#### [JetRailsAdmin-ToolKIt](Jetswapper)
+#### [Jetswapper](Jetswapper)
 JetSwapper is designed to manage service restarts for non-root users, specifically optimized for JetRails environments. It efficiently handles swap memory and service restarts with enhanced readability and visual appeal.
 
 #### [Mass Server Swap Memory Refresh Script](mass-swap)
