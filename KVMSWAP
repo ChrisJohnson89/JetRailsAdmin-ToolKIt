@@ -1,8 +1,0 @@
-read -p "Enter the server IDs or aliases (comma-separated): " server_input
-IFS=',' read -ra servers <<< "$server_input"
-for server in "${servers[@]}"; do
-    echo "Connecting to $server..."
-    ssh "$server" "swapoff -a && swapon -a"
-    echo "Finished processing $server."
-done
-echo "All servers processed."
